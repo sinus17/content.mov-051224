@@ -1,0 +1,4 @@
+TikTokApi==6.1.1
+supabase==1.0.3
+python-dotenv==1.0.0
+asyncio==3.4.3
